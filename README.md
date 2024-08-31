@@ -1,0 +1,2 @@
+# ffmpeg_qt_record
+FFmpeg音视频编码实战屏幕录像机视频课程-基于QT5和FFMpegSDK
